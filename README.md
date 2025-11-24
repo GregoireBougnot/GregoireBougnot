@@ -31,6 +31,6 @@
 ## 🔭 Projects
 
 - **Coffee Machine Sales Analysis** — SQL / Power BI / Python *(Coming soon)*  
-  Cleaning, KPI creation, dashboard, SQL queries — tout est en préparation.
+  Cleaning, KPI creation, dashboard, SQL queries — in progress.
 
 ---

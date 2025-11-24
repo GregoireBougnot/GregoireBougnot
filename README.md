@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there i'm Grégoire👋
+**Junior Data Analyst in transition**
 
-<!--
-**GregoireBougnot/GregoireBougnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Former Specialist in financial operations (Amazon / Arvato)  
+- 📊 Currently learning data analytics with Python, SQL & Power BI  
+- 🎓 Working on an analysis project: *Coffee Machine Sales* (Coming soon)  
+- 🌱 Always exploring: data cleaning, dashboard design & data storytelling  
+- 📫 How to reach me: bougnot33@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+| Category | Tools / Technologies |
+|---|---|
+| **Data Analysis** | SQL,Python (pandas, numpy) |
+| **BI & Visualization** | Power BI, Excel |
+| **Data Cleaning** | Preprocessing, normalization, missing data handling |
+
+---
+
+## 📚 Certifications & Learning
+
+- Google Data Analytics (Coursera)
+- Google Advanced Data Analytics Specialization (Coursera)
+- Microsoft Power BI Data Analyst (Coursera)
+- Exploratory Data Analysis & Visualization  
+
+---
+
+## 🔭 Projects
+
+- **Coffee Machine Sales Analysis** — SQL / Power BI / Python *(Coming soon)*  
+  Cleaning, KPI creation, dashboard, SQL queries — tout est en préparation.
+
+---
